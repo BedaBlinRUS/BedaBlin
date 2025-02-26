@@ -19,7 +19,7 @@ namespace MathTaskClassLibraryTests
             public void RectangleArea_3and5_15returned()
             {
                 // Исходные данные
-                int a = 3;
+                int a = 34;
                 int b = 5;
                 int expected = 15;
 
